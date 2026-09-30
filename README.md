@@ -1,5 +1,9 @@
 # VibeSafe
 
+[Live demo](https://vibe-safe-pt7v.vercel.app/)
+
+Developed in collaboration with Humza Hassan.
+
 Security agent that audits AI-generated ("vibecoded") codebases for vulnerabilities.
 
 VibeSafe scans your project in three tiers:
